@@ -18,4 +18,4 @@ The solution of this problem is to utilize the mobiles phone technology. Nowaday
 
 ![alt text](https://github.com/chhamza2010/OEC/blob/master/screenshots/8.PNG)
 
-![alt text](https://github.com/chhamza2010/OEC/blob/master/screenshots/hardware.PNG)
+![alt text](https://github.com/chhamza2010/OEC/blob/master/screenshots/hardware.png)
